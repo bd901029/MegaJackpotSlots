@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>coin_flat.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{30,30}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{30,30}}</string>
+                <key>sourceSize</key>
+                <string>{30,30}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>coins_fly_iPhone.pvr.ccz</string>
+            <key>size</key>
+            <string>{32,32}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:66c17b6d8f14520f3b307f5544d2d75b$</string>
+            <key>textureFileName</key>
+            <string>coins_fly_iPhone.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

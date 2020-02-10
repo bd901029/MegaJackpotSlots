@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>coin_.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{114,90},{14,26}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{14,26}}</string>
+			<key>sourceSize</key>
+			<string>{14,26}</string>
+		</dict>
+		<key>coins_.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,90},{110,33}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{110,33}}</string>
+			<key>sourceSize</key>
+			<string>{110,33}</string>
+		</dict>
+		<key>pot_.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{237,86}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{237,86}}</string>
+			<key>sourceSize</key>
+			<string>{237,86}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>coins.pvr.ccz</string>
+		<key>size</key>
+		<string>{241,125}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:d0a331bca8a35d142a1c868ab44dea78$</string>
+		<key>textureFileName</key>
+		<string>coins.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>
